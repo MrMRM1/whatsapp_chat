@@ -1,6 +1,6 @@
 # whatsapp_chat
 
-زیبا سازی چت های خروجی واتساپ ، تغییر فرمت و ظاهر چت های واتساپ
+تغییر فرمت و ظاهر چت های واتساپ
 
 <img src="https://github.com/MohammadRezaMehrabany/whatsapp_chat/blob/master/whatsapp.jpg">
  
