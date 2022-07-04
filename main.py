@@ -39,7 +39,7 @@ for i in progressbar(range(len(f_read)-1)):
     if data:
         try:
             time = re.findall(r"\d{2}:\d{2}", data)[0]
-            datatime = re.findall(r'\d{2}.\d{2}.\d{2}', data)[0]
+            datatime = re.findall(r'^.*,', data)[0][:-1]
         except:
             file_output.write(continue_message(data))
             continue
